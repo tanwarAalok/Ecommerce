@@ -1,4 +1,4 @@
-# MERN E-COMMERCE 
+# MERN E-COMMERCE Website
 
 
 # Install Dependencies
